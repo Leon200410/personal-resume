@@ -21,7 +21,7 @@
       "experience": "拥有",
       "years": "4年",
       "worldwide": "的前端工作经验、",
-      "web3Years": "1年",
+      "web3Years": "2年",
       "web3": "Web3 工作经验"
     },
     "cta": {
@@ -33,19 +33,19 @@
       "title": "工作经历",
       "positions": {
         "google": {
-          "period": "2024 - 2025",
-          "company": "ForthTech",
+          "period": "2025.3 - 2025.8",
+          "company": "Fo",
           "position": "web3前端工程师"
         },
         "meta": {
-          "period": "2022 - 2024",
-          "company": "摩方软件",
-          "position": "前端leader"
+          "period": "2024 - 2025.3",
+          "company": "ForthTech",
+          "position": "web3前端工程师"
         },
         "adobe": {
-          "period": "2021 - 2022",
-          "company": "学子有品",
-          "position": "前端工程师"
+          "period": "2021 - 2024",
+          "company": "摩方软件",
+          "position": "前端leader"
         }
       }
     },
@@ -59,8 +59,8 @@
         "tailwind": "Tailwind",
         "nextjs": "Next",
         "dapp": "DApp",
-        "metamask": "MetaMask",
         "ethereum": "Ethereum",
+        "sol": "Solana",
         "vite": "Vite",
         "electron": "Electron",
         "uniapp": "UniApp",
@@ -194,6 +194,14 @@
     "titleHighlight": "项目",
     "description": "如果您正在寻找一位前端工程师将您的愿景转化为精准的代码实现，或需要一位技术伙伴通过前沿的Web技术为您的业务注入增长动力，我愿为您的用户创造丝滑的交互体验。",
     "projects": {
+      "turing": {
+        "title": "图灵实验室",
+        "description": "ai大逃杀 | 前端开发"
+      },
+      "fo": {
+        "title": "$FO生态官方网站",
+        "description": "FO生态 | 前端开发"
+      },
       "op": {
         "title": "OnePort 官网",
         "description": "官网 | 部署开发"

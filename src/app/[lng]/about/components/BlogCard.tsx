@@ -38,7 +38,8 @@ const BlogCard = ({ blog, t }: BlogCardProps) => {
         <div className="mt-6">
           <h2 className="text-xl font-medium xl:text-2xl">
             <a
-              href="article.html"
+              href={blog.link}
+              target="_blank"
               className="inline-block text-dark transition hover:text-primary dark:text-light/70 dark:hover:text-primary"
             >
               {t(titleKey)}

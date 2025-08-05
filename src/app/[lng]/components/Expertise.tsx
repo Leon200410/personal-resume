@@ -54,8 +54,8 @@ export const expertiseData = [
     logo: "/images/dapp.png",
   },
   {
-    name: "home.expertise.tools.metamask",
-    logo: "/images/metamask.png",
+    name: "home.expertise.tools.sol",
+    logo: "/images/sol.png",
   },
   {
     name: "home.expertise.tools.ethereum",

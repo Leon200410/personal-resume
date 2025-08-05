@@ -33,19 +33,19 @@
       "title": "Work Experience",
       "positions": {
         "google": {
-          "period": "2024 - 2025",
-          "company": "ForthTech",
+          "period": "2025.3 - 2025.8",
+          "company": "Fo",
           "position": "Web3 Frontend Engineer"
         },
         "meta": {
-          "period": "2022 - 2024",
-          "company": "MOF Software",
-          "position": "Frontend Team Lead"
+          "period": "2024 - 2025.3",
+          "company": "ForthTech",
+          "position": "Web3 Frontend Engineer"
         },
         "adobe": {
-          "period": "2021 - 2022",
-          "company": "XueZiYouPin",
-          "position": "Frontend Engineer"
+          "period": "2021 - 2024",
+          "company": "MOF Software",
+          "position": "Frontend Team Lead"
         }
       }
     },
@@ -59,8 +59,8 @@
         "tailwind": "Tailwind",
         "nextjs": "Next",
         "dapp": "DApp",
-        "metamask": "MetaMask",
         "ethereum": "Ethereum",
+        "sol": "Solana",
         "vite": "Vite",
         "electron": "Electron",
         "uniapp": "UniApp",
@@ -194,6 +194,14 @@
     "titleHighlight": "projects",
     "description": "If you're looking for a frontend engineer to transform your vision into precise code implementation, or need a technical partner to drive your business growth through cutting-edge web technologies, I'm here to create smooth interactive experiences for your users.",
     "projects": {
+      "turing": {
+        "title": "Turing Lab",
+        "description": "AI Battle Royale | Frontend Development"
+      },
+      "fo": {
+        "title": "$FO Ecosystem Official Website",
+        "description": "FO Ecosystem | Frontend Development"
+      },
       "op": {
         "title": "OnePort Website",
         "description": "Website | Development & Deployment"

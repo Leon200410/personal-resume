@@ -108,11 +108,11 @@ export default async function Home({ params }: PageProps) {
 
         <div className="mt-6 space-y-6">
           <ProjectCard
-            image="/images/project-10.png"
+            image="/images/project-11.png"
             category={t("home.projects.categories.product_design")}
           />
           <ProjectCard
-            image="/images/project-9.png"
+            image="/images/project-10.png"
             category={t("home.projects.categories.product_design")}
           />
         </div>

@@ -19,7 +19,7 @@
       "description": "一位富有激情的",
       "role1": "前端开发工程师",
       "experience": "拥有",
-      "years": "4年",
+      "years": "5年",
       "worldwide": "的前端工作经验、",
       "web3Years": "2年",
       "web3": "Web3 工作经验"
@@ -98,9 +98,9 @@
       "description": "一位充满激情的",
       "role": "前端开发工程师",
       "experience": "拥有",
-      "years": "4年",
+      "years": "5年",
       "worldwide": "的前端工作经验、",
-      "web3Years": "1年",
+      "web3Years": "2年",
       "web3": "Web3 工作经验"
     },
     "status": {
@@ -194,6 +194,10 @@
     "titleHighlight": "项目",
     "description": "如果您正在寻找一位前端工程师将您的愿景转化为精准的代码实现，或需要一位技术伙伴通过前沿的Web技术为您的业务注入增长动力，我愿为您的用户创造丝滑的交互体验。",
     "projects": {
+      "cardx": {
+        "title": "CardX Web (GameFi)",
+        "description": "CardX Web | 前端开发"
+      },
       "turing": {
         "title": "图灵实验室",
         "description": "ai大逃杀 | 前端开发"

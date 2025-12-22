@@ -194,6 +194,10 @@
     "titleHighlight": "projects",
     "description": "If you're looking for a frontend engineer to transform your vision into precise code implementation, or need a technical partner to drive your business growth through cutting-edge web technologies, I'm here to create smooth interactive experiences for your users.",
     "projects": {
+      "cardx": {
+        "title": "CardX Web (GameFi)",
+        "description": "CardX Web | Frontend Development"
+      },
       "turing": {
         "title": "Turing Lab",
         "description": "AI Battle Royale | Frontend Development"

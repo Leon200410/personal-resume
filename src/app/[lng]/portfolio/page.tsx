@@ -10,6 +10,16 @@ export default async function Portfolio({ params }: PageProps) {
 
   const projects = [
     {
+      image: "/images/project-11.png",
+      category: t("home.projects.categories.product_design"),
+      portfolio: {
+        title: t("portfolio.projects.cardx.title"),
+        description: t("portfolio.projects.cardx.description"),
+        link: "https://dapp.cardx.fun/",
+        tech: "Next.js 15 + React 19 + TypeScript + Tailwind CSS + Zustand + TanStack Query + @solana/web3.js + Radix UI + Recharts + Framer Motion + next-intl",
+      },
+    },
+    {
       image: "/images/project-10.png",
       category: t("home.projects.categories.product_design"),
       portfolio: {

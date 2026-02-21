@@ -21,7 +21,7 @@
       "experience": "拥有",
       "years": "5年",
       "worldwide": "的前端工作经验、",
-      "web3Years": "2年",
+      "web3Years": "3年",
       "web3": "Web3 工作经验"
     },
     "cta": {
@@ -33,19 +33,19 @@
       "title": "工作经历",
       "positions": {
         "google": {
-          "period": "2025.3 - 2025.8",
-          "company": "Fo",
-          "position": "web3前端工程师"
+          "period": "2025.3 - 2026.2",
+          "company": "Fo (web3)",
+          "position": "前端工程师"
         },
         "meta": {
-          "period": "2024 - 2025.3",
-          "company": "ForthTech",
-          "position": "web3前端工程师"
+          "period": "2024.3 - 2025.3",
+          "company": "ForthTech (web3)",
+          "position": "前端工程师"
         },
         "adobe": {
-          "period": "2021 - 2024",
-          "company": "摩方软件",
-          "position": "前端leader"
+          "period": "2021.6 - 2024.3",
+          "company": "重庆云聚客科技有限公司",
+          "position": "前端负责人"
         }
       }
     },
@@ -100,7 +100,7 @@
       "experience": "拥有",
       "years": "5年",
       "worldwide": "的前端工作经验、",
-      "web3Years": "2年",
+      "web3Years": "3年",
       "web3": "Web3 工作经验"
     },
     "status": {
@@ -108,7 +108,7 @@
     },
     "stats": {
       "experience": {
-        "number": "4+",
+        "number": "5+",
         "label": "年工作经验"
       },
       "projects": {
@@ -248,6 +248,11 @@
       "read_time": "3分钟阅读",
       "date": "2025年3月1日",
       "title": "Next.js 13+ App Router 国际化方案实践"
+    },
+    "fund_valuation": {
+      "read_time": "3分钟阅读",
+      "date": "2026年2月4日",
+      "title": "实时基金估值助手"
     }
   },
   "contact": {

@@ -19,9 +19,9 @@
       "description": "A passionate",
       "role1": "Frontend Engineer",
       "experience": "With",
-      "years": "4 years",
+      "years": "5 years",
       "worldwide": "of frontend experience,",
-      "web3Years": "1 year",
+      "web3Years": "3 years",
       "web3": "Web3 experience"
     },
     "cta": {
@@ -33,19 +33,19 @@
       "title": "Work Experience",
       "positions": {
         "google": {
-          "period": "2025.3 - 2025.8",
-          "company": "Fo",
-          "position": "Web3 Frontend Engineer"
+          "period": "2025.3 - 2026.2",
+          "company": "Fo (web3)",
+          "position": "Frontend Engineer"
         },
         "meta": {
-          "period": "2024 - 2025.3",
-          "company": "ForthTech",
-          "position": "Web3 Frontend Engineer"
+          "period": "2024.3 - 2025.3",
+          "company": "ForthTech (web3)",
+          "position": "Frontend Engineer"
         },
         "adobe": {
-          "period": "2021 - 2024",
-          "company": "MOF Software",
-          "position": "Frontend Team Lead"
+          "period": "2021.6 - 2024.3",
+          "company": "Chongqing Yunjuke Technology Co., Ltd.",
+          "position": "Frontend Lead"
         }
       }
     },
@@ -98,9 +98,9 @@
       "description": "A passionate",
       "role": "Frontend Engineer",
       "experience": "With",
-      "years": "4 years",
+      "years": "5 years",
       "worldwide": "of frontend experience,",
-      "web3Years": "1 year",
+      "web3Years": "3 years",
       "web3": "Web3 experience"
     },
     "status": {
@@ -108,7 +108,7 @@
     },
     "stats": {
       "experience": {
-        "number": "4+",
+        "number": "5+",
         "label": "Years Experience"
       },
       "projects": {
@@ -248,6 +248,11 @@
       "read_time": "3 min read",
       "date": "March 1, 2025",
       "title": "Next.js 13+ App Router Internationalization Implementation"
+    },
+    "fund_valuation": {
+      "read_time": "3 min read",
+      "date": "Feb 04, 2026",
+      "title": "Real-time Fund Valuation Assistant"
     }
   },
   "contact": {
